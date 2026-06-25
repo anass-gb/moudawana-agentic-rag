@@ -1,7 +1,8 @@
 # 🏛️ Moudawana Agentic RAG — مدونة الأسرة المغربية
 
-> Assistant juridique intelligent **bilingue (AR / FR)** basé sur la **Moudawana marocaine (Loi 70.03)**.  
-> Système avancé de type **Agentic Corrective RAG (CRAG)** orchestré avec **LangGraph** pour garantir précision, traçabilité et robustesse.
+Moudawana AI Agent est un assistant juridique de pointe bilingue (AR/FR) dédié à la Loi 70.03.
+
+Conçu autour d'une architecture de type Agentic Corrective RAG (CRAG) et orchestré par LangGraph, le système sécurise la génération de réponses par un processus itératif de validation (Planner ➔ Retriever ➔ Grader ➔ Reformulator ➔ Reasoning). Il intègre des Guardrails éthiques et des outils métiers déterministes pour offrir une précision chirurgicale, une traçabilité rigoureuse (citations d'articles) et un streaming asynchrone (SSE) fluide.
 
 ---
 
