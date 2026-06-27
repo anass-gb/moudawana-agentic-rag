@@ -7,8 +7,9 @@ Conçu autour d'une architecture de type Agentic Corrective RAG (CRAG) et orches
 ---
 
 ## 🧠 Architecture du système (LangGraph Agent Workflow)
-
-<img src="architecture complet.png" width="300"/>
+<p align="center">
+  <img src="architecture complet.png" width="80%"/>
+</p>
 
 
 ## 🛠️ Stack technique
